@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eOlawale
-- 👀 I’m a serial entreprenuer, software develop and digital marketing consultant, currently building systems and mobile applications for brands like DHL Express, Marketplace On Motion, and many more
-- 🌱 I’m currently learning fullstack development
-- 💞️ I’m looking to collaborate on ai, machine learning and digital products for various markets
+- 👀 I’m a serial entreprenuer, software developer and digital marketing consultant, currently build enterprise systems and mobile applications for brands, organizations and startup firms.
+- 💞️ Developing AI-powered digital products with expertise in data science, mobile app development and eCommerce solution
 - 📫 How to reach me +2348169001622
 - Connect with Olawale at https://linktr.ee/olawaleolawale
 
